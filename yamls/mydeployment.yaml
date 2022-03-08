@@ -6,7 +6,6 @@ metadata:
     app: mydeploy
   name: mydeploy
   namespace: default
-  resourceVersion: "42861"
 spec:
   progressDeadlineSeconds: 600
   replicas: 1
