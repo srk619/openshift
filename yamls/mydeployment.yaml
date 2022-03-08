@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   generation: 1
   labels:
-    app: mydeploy
+    app: mydeploy1
   name: mydeploy
   namespace: default
 spec:
